@@ -1,3 +1,3 @@
 # GClient From Linuxserver
 
-Placeholder text pending full docs
+edit to not auto login to abc
