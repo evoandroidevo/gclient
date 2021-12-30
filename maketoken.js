@@ -31,10 +31,8 @@ var connectionstring = encrypt(
   "connection":{
     "type":"rdp",
     "settings":{
-      "hostname":"127.0.0.1",
+      "hostname":"192.168.1.4",
       "port":"3389",
-      "username":"abc",
-      "password":PASSWORD,
       "security": "any",
       "ignore-cert": true
     }
