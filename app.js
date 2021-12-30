@@ -49,7 +49,7 @@ baserouter.get("/", function (req, res) {
         "connection":{
           "type":"rdp",
           "settings":{
-            "hostname":"127.0.0.1",
+            "hostname":"192.168.1.4",
             "port":"3389",
             "security": "any",
             "ignore-cert": true
@@ -63,7 +63,7 @@ baserouter.get("/", function (req, res) {
         "connection":{
           "type":"rdp",
           "settings":{
-            "hostname":"127.0.0.1",
+            "hostname":"192.168.1.4",
             "port":"3389",
             "security": "any",
             "ignore-cert": true
